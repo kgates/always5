@@ -1,0 +1,6 @@
+#### Quiz 4####
+
+drawNumber <- function(low, high){
+myNumber <- sample(low:high, 1) 
+return(myNumber)
+}
