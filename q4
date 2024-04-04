@@ -1,0 +1,10 @@
+## Quiz 4
+
+
+# Define the function
+printNumber <- function(userNumber) {
+  cat("Your number is", userNumber, "\n")
+}
+
+# Test the function
+printNumber(10)  # Example usage
