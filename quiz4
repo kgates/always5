@@ -1,0 +1,6 @@
+##Q4
+
+# Define the function
+printNumber <- function(userNumber) {
+  cat("Your number is", userNumber, "\n")
+}
