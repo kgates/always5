@@ -1,0 +1,13 @@
+require(tools)
+
+ checkNumber <- function(userNumber) {
+
+checked <- NULL
+
+if(is.wholenumber(userNumber)) {
+  checked = T}
+else {
+  checked = F}
+
+return(checked)
+}
