@@ -1,0 +1,4 @@
+subtract <- function(number, userNumber){
+  result <- number - userNumber
+  return (result)
+}
